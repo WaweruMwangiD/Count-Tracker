@@ -1,0 +1,18 @@
+
+.increment{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    margin: 2rem;
+}
+
+.btn_increment{
+    margin: 0 10px;
+    max-width: 100px;
+}
+
+.count_display{
+    background: #34568b;
+    border:50% solid #34568b;
+    max-width: 100px;
+    border-radius: 3px solid blue;
+}
